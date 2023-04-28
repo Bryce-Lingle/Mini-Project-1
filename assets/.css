@@ -1,0 +1,23 @@
+header {
+    background-color:grey;
+    color: black;
+    padding: 25px;  
+}
+
+body {
+    margin:0;
+    height:100vh;
+}
+
+footer {
+    background-color: red;
+    padding:25px;
+    border:10px ;
+    position: absolute;
+    bottom: 0px;
+    width: 100% calc(100% - 20px);
+}
+
+img{
+    width: calc(100%);
+}
